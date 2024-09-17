@@ -1,1 +1,2 @@
 http://backend.course#sonyadrach
+http://backend.course?name=%22Sofiia%20Drach%22&github_name=sonyadrach&group=%22Group%2021%22&subgroup=%22Subgroup%202%22
